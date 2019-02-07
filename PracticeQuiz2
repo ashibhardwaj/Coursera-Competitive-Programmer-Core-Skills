@@ -1,0 +1,9 @@
+Q.1. O(nmk)
+Q.2. n=m=k=100; time=2 seconds
+      n=2000, m=20, k=500; time limit=10 seconds
+Q.3. def calculate(a):
+        result = 0
+        for y in a:
+          sum += y
+        result = sum * sum
+        return result
